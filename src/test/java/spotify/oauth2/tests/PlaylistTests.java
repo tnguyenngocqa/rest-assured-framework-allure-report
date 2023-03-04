@@ -17,7 +17,7 @@ public class PlaylistTests {
     RequestSpecification requestSpecification;
     ResponseSpecification responseSpecification;
 
-    String access_token = "<YOUR-SPOTIFY-ACCESS-TOKE>";
+    String access_token = "<YOUR-SPOTIFY-ACCESS-TOKEN>";
 
     @BeforeClass
     public void beforeClass() {
