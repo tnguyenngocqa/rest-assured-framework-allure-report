@@ -19,3 +19,7 @@ Checkout a specific branch for each topic
 * Topic 7.2: Expose Test Report To AWS S3 Bucket
 
 The above topics can be updated during working
+
+### Topic 2: POJOs (why - what - how)
+* https://www.jsonschema2pojo.org/
+![POJOs](https://user-images.githubusercontent.com/51280278/222885708-991e7d20-4593-4cd6-ad85-fe9b127c3151.png)
