@@ -1,11 +1,12 @@
 # rest-assured-framework-allure-report
 
-![The Spotify Web API Console lets you explore the endpoints through an easy-to-use interface.](https://developer.spotify.com/console/playlists/)
 
 Examples:
+[The Spotify Web API Console](https://developer.spotify.com/console/playlists/)
+
 ![Playlists](https://user-images.githubusercontent.com/51280278/222874646-1f349533-b0be-4873-89d6-4528316363f5.png)
 
-Please checkout a specific branch for each topic
+Checkout a specific branch for each topic
 
 * Topic 1: Examples to validate some REST APIs such as Create / Update / Get A Spotify Playlist
 * Topic 2: POJOs (why - what - how)
